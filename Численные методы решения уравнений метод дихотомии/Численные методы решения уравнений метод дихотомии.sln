@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Численные методы решения уравнений метод дихотомии", "Численные методы решения уравнений метод дихотомии.vcxproj", "{CB09FD34-8A39-4A05-8C85-5577D096EDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Debug|x64.ActiveCfg = Debug|x64
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Debug|x64.Build.0 = Debug|x64
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Debug|x86.Build.0 = Debug|Win32
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Release|x64.ActiveCfg = Release|x64
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Release|x64.Build.0 = Release|x64
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Release|x86.ActiveCfg = Release|Win32
+		{CB09FD34-8A39-4A05-8C85-5577D096EDAE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A554C5CF-683C-4940-B2F3-2C1F96D2C86B}
+	EndGlobalSection
+EndGlobal
